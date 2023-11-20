@@ -1,0 +1,27 @@
+.aziz {
+    color: red;
+}
+
+#tst2 {
+    color: blue;
+    font-size: 15px;
+}
+
+ body {
+    background-color: rgb(14, 166, 141);
+} 
+
+.essentiel {
+    font-weight: bold;
+    color: #000080;
+}
+
+a:active {
+    color: rgb(214, 226, 43);
+}
+h1{
+    color:white;
+    background-color: gray;
+    padding: 5px;
+
+}
