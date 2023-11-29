@@ -1,0 +1,23 @@
+h1 {
+    color:rgb(79, 125, 199);
+   font-style:italic;
+    padding: 19px;
+    font-family :verdana;
+}
+p{
+    font-weight: bold;
+    color:black;
+
+}
+
+body {
+    border: 2px solid rgb(223, 214, 214); 
+    padding: 20px; 
+    line-height: 1.6;
+    background-color: rgb(13, 32, 52);
+    
+}
+nav{
+    font-weight: bold;
+
+}
